@@ -1,0 +1,90 @@
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\bin\Debug\netcoreapp2.2\Logs\dummy.txt
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\bin\Debug\netcoreapp2.2\MediaGallery.deps.json
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\bin\Debug\netcoreapp2.2\MediaGallery.runtimeconfig.json
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\bin\Debug\netcoreapp2.2\MediaGallery.runtimeconfig.dev.json
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\bin\Debug\netcoreapp2.2\MediaGallery.dll
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\bin\Debug\netcoreapp2.2\MediaGallery.pdb
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\bin\Debug\netcoreapp2.2\MediaGallery.Views.dll
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\bin\Debug\netcoreapp2.2\MediaGallery.Views.pdb
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.csproj.CoreCompileInputs.cache
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.RazorAssemblyInfo.cache
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.RazorAssemblyInfo.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.AssemblyInfoInputs.cache
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.AssemblyInfo.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.TagHelpers.input.cache
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.TagHelpers.output.cache
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.RazorCoreGenerate.cache
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateFolder.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Home\Edit.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Home\Folder.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Home\Picture.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Home\UploadFile.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Breadcrumb\Index.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\GalleryMenu\Index.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Pager\Index.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ItemsList.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Sidebar.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.RazorTargetAssemblyInfo.cache
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.RazorTargetAssemblyInfo.cs
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.Views.pdb
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.dll
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.pdb
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.csproj.CopyComplete
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\bin\Debug\netcoreapp2.2\Logs\dummy.txt
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\bin\Debug\netcoreapp2.2\MediaGallery.deps.json
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\bin\Debug\netcoreapp2.2\MediaGallery.runtimeconfig.json
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\bin\Debug\netcoreapp2.2\MediaGallery.runtimeconfig.dev.json
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\bin\Debug\netcoreapp2.2\MediaGallery.dll
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\bin\Debug\netcoreapp2.2\MediaGallery.pdb
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\bin\Debug\netcoreapp2.2\MediaGallery.Views.dll
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\bin\Debug\netcoreapp2.2\MediaGallery.Views.pdb
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.csprojAssemblyReference.cache
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.csproj.CoreCompileInputs.cache
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.RazorAssemblyInfo.cache
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.RazorAssemblyInfo.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.AssemblyInfoInputs.cache
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.AssemblyInfo.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.TagHelpers.input.cache
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.TagHelpers.output.cache
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.RazorCoreGenerate.cache
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateFolder.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Home\Edit.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Home\Folder.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Home\Picture.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Home\UploadFile.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Breadcrumb\Index.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\GalleryMenu\Index.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Pager\Index.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ItemsList.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Sidebar.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.RazorTargetAssemblyInfo.cache
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.RazorTargetAssemblyInfo.cs
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.Views.pdb
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.dll
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.pdb
+D:\#GamesAndApps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.csproj.CopyComplete
+D:\#Games and Apps\GITHUB\Polykas2018\22-AspNetCorePagingSolution\MediaGallery\obj\Debug\netcoreapp2.2\MediaGallery.csprojAssemblyReference.cache
